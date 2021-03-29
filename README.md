@@ -1,4 +1,4 @@
-<h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
+<h2>Digital Innovation: Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
 Nesta live coding, aprendemos a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Desenvolvemos testes unitários para validar o sistema de gerenciamento de estoques de cerveja, e também foi apresentado conceitos e vantagens de se criar testes unitários com JUnit e Mockito. 
 
